@@ -1,0 +1,2 @@
+# jsyjdlib
+javascript library
