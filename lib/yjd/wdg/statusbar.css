@@ -1,0 +1,29 @@
+/**
+ * @copyright  2017 yujakudo
+ * @license    MIT License
+ * @fileoverview css of status bar.
+ * @since  2017.05.14  initial coding.
+ */
+
+div.yjd-wdg-statusbar {
+	display: flex;
+	align-items: center;
+	padding: 0 0.2em;
+}
+div.yjd-wdg-statusbar-left, div.yjd-wdg-statusbar-right {
+	flex-grow: 0;
+}
+div.yjd-wdg-statusbar-msg {
+	flex-grow: 1;
+	margin: 1px 0.2em;
+	padding: 0 0.4em;
+	border-top: var(--yjd-wdg-thick) solid var(--yjd-wdg-darkside);
+	border-left: var(--yjd-wdg-thick) solid var(--yjd-wdg-darkside);
+	border-bottom: var(--yjd-wdg-thick) solid var(--yjd-wdg-lightside);
+	border-right: var(--yjd-wdg-thick) solid var(--yjd-wdg-lightside);
+}
+div.yjd-wdg-statusbar-msg>div {
+	width: 100%;
+	white-space: nowrap;
+	overflow: hiden;
+}
