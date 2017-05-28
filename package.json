@@ -1,0 +1,24 @@
+{
+  "name": "jsyjdlib",
+  "version": "0.0.1",
+  "description": "javascript library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yujakudo/jsyjdlib.git"
+  },
+  "author": "yujakudo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yujakudo/jsyjdlib/issues"
+  },
+  "homepage": "https://github.com/yujakudo/jsyjdlib#readme",
+  "devDependencies": {
+    "adm-zip": "^0.4.7",
+    "async": "^2.4.0",
+    "request": "^2.81.0"
+  }
+}
