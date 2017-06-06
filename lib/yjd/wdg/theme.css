@@ -6,14 +6,17 @@
  */
 
 :root {
-	--yjd-wdg-base-color: rgba(40,40,40,0.8);
+	--yjd-wdg-base-color: rgba(40,40,40,0.9);
 	--yjd-wdg-base-hover: rgba(140,140,140,0.9);
-	--yjd-wdg-lightside: rgba(120,120,120,0.8);
-	--yjd-wdg-darkside: rgba(0,0,0,0.8);
+	--yjd-wdg-lightside: rgba(120,120,120,0.9);
+	--yjd-wdg-darkside: rgba(0,0,0,0.9);
 	--yjd-wdg-thick: 1px;
-	--yjd-wdg-text: rgba(240,240,240,0.9);
-	--yjd-wdg-text-inactive: rgba(100,100,100,0.9);
-	--yjd-wdg-text-shadow: rgba(40,40,40,0.9);
+	--yjd-wdg-text: rgba(240,240,240,0.95);
+	--yjd-wdg-text-inactive: rgba(180,180,180,0.95);
+	--yjd-wdg-text-shadow: rgba(40,40,40,0.95);
+	--yjd-wdg-on: rgba(150,150,255,1);
+	--yjd-wdg-off: rgba(200,200,200,0.95);
+	--yjd-wdg-on-shadow: rgba(150,150,255,1);
 	--yjd-wdg-font-family: sans-serif;
     --yjd-wdg-font-size: 11pt;
     --yjd-wdg-line-height: 13.5pt;

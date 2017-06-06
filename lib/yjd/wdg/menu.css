@@ -6,6 +6,7 @@
  */
 
 ul.yjd-wdg-menu-bar {
+	position: relative;
 	padding: 0 0.2em;
 	list-style-type:none;
 	zoom: 1;
@@ -33,7 +34,7 @@ ul.yjd-wdg-submenu {
 ul.yjd-wdg-submenu {
 	display: none;
 }
-li:hover>ul.yjd-wdg-submenu {
+li:hover>ul.yjd-wdg-submenu, ul.yjd-wdg-submenu.yjd-wdg-show {
 	display: block;
 }
 ul.yjd-wdg-menu-bar li, ul.yjd-wdg-menu-popup li {

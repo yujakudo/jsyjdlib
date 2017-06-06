@@ -15,13 +15,13 @@
 	text-decoration: underline;
 }
 .yjd-wdg-toggle-on {
-/*	color: var(--yjd-wdg-text);
-*/	text-shadow: 0 0 5px var(--yjd-wdg-text);
+	color: var(--yjd-wdg-on);
+	text-shadow: 0 0 10px var(--yjd-wdg-on-shadow);
 }
-/*.yjd-wdg-toggle-off {
-	color: var(--yjd-wdg-text-inactive);
+.yjd-wdg-toggle-off {
+	color: var(--yjd-wdg-off);
 }
-*/
+
 .yjd-wdg {
 	z-index: 1000;
 	margin: 0 0 0 0;
