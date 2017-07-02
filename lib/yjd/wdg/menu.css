@@ -92,11 +92,6 @@ ul.yjd-wdg-menu-onlyicon>li>div>div.yjd-wdg-menu-sub
 
 ul.yjd-wdg-menu-bar>li>div hr {
 	margin: 0 0.4em;
-	border-left: var(--yjd-wdg-thick) solid var(--yjd-wdg-darkside);
-	border-right: var(--yjd-wdg-thick) solid var(--yjd-wdg-lightside);
-	border-top: none;
-	border-bottom: none;
-	pointer-events: none;
 }
 ul.yjd-wdg-menu-popup>li>div hr, ul.yjd-wdg-submenu>li>div hr {
 	margin: 0.4em 0;

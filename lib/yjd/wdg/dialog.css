@@ -1,0 +1,51 @@
+/**
+ * @copyright  2017 yujakudo
+ * @license    MIT License
+ * @fileoverview base class of widget
+ * @since  2017.06.10  initial coding.
+ */
+
+div.yjd-wdg-dialog-base {
+	position: fixed;
+	top: 0;
+	left: 0;
+	margin: 0;
+	padding: 0;
+	display: block;
+	z-index: 20000;
+	background-color: rgba(0,0,0,0.1);
+}
+div.yjd-wdg-dialog-base.yjd-wdg-dialog-modeless {
+	z-index: -20000;
+}
+div.yjd-wdg-dialog {
+	top: 0;
+	left: 0;
+	position: absolute;
+	padding: 0;
+	z-index: 20001;
+	background-color: var(--yjd-wdg-base-color);
+}
+div.yjd-wdg-dialog.yjd-wdg-dragging {
+/*	opacity: 0.4;
+*/}
+div.yjd-wdg-dialog>div.yjd-wdg-title {
+	margin: 0;
+	padding: var(--yjd-wdg-padding-top-bottom) var(--yjd-wdg-padding-side);
+	background-color: var(--yjd-wdg-titlebar);
+}
+div.yjd-wdg-dialog[draggable="true"]>div.yjd-wdg-title {
+	cursor: move;
+}
+div.yjd-wdg-dialog>div.yjd-wdg-body {
+	margin: 0;
+	padding: var(--yjd-wdg-padding-top-bottom) var(--yjd-wdg-padding-side);
+}
+div.yjd-wdg-dialog>div.yjd-wdg-buttons {
+	margin: 0;
+	padding: var(--yjd-wdg-padding-top-bottom) var(--yjd-wdg-padding-side);
+	text-align: center;
+}
+div.yjd-wdg-dialog>div.yjd-wdg-buttons button {
+	margin: 0.2em 0.6em;
+}

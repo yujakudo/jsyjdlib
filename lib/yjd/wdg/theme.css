@@ -6,19 +6,35 @@
  */
 
 :root {
+	--yjd-wdg-font-family: sans-serif;
+    --yjd-wdg-font-size: 11pt;
+    --yjd-wdg-line-height: 13.5pt;
+
 	--yjd-wdg-base-color: rgba(40,40,40,0.9);
 	--yjd-wdg-base-hover: rgba(140,140,140,0.9);
 	--yjd-wdg-lightside: rgba(120,120,120,0.9);
 	--yjd-wdg-darkside: rgba(0,0,0,0.9);
 	--yjd-wdg-thick: 1px;
+	--yjd-wdg-titlebar: rgba(60,60,60,0.9);
+
 	--yjd-wdg-text: rgba(240,240,240,0.95);
 	--yjd-wdg-text-inactive: rgba(180,180,180,0.95);
 	--yjd-wdg-text-shadow: rgba(40,40,40,0.95);
 	--yjd-wdg-on: rgba(150,150,255,1);
 	--yjd-wdg-off: rgba(200,200,200,0.95);
 	--yjd-wdg-on-shadow: rgba(150,150,255,1);
-	--yjd-wdg-font-family: sans-serif;
-    --yjd-wdg-font-size: 11pt;
-    --yjd-wdg-line-height: 13.5pt;
+
+	--yjd-wdg-padding-side: 0.8em;
+	--yjd-wdg-padding-top-bottom: 0.2em;
+
+	--yjd-wdg-button-base: linear-gradient(to bottom, rgba(100,100,100,0.9), rgba(90,90,90,0.9) 15%, rgba(90,90,90,0.9) 85%, rgba(80,80,80,0.9));
+	--yjd-wdg-button-hover: linear-gradient(to bottom, rgba(120,120,120,0.9), rgba(110,110,110,0.9) 15%, rgba(110,110,110,0.9) 85%, rgba(100,100,100,0.9));
+/*	--yjd-wdg-button-base: rgba(90,90,90,0.9);
+	--yjd-wdg-button-hover: rgba(110,110,110,0.9);
+*/	--yjd-wdg-button-radius: 6px;
+	--yjd-wdg-button-font-size: 104%;
+	--yjd-wdg-button-padding-side: 0.8em;
+	--yjd-wdg-button-padding-top-bottom: 0.2em;
+
 }
 
