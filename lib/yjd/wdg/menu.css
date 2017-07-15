@@ -68,6 +68,12 @@ div.yjd-wdg-menu-str {
 	flex-grow: 1;
 	white-space: nowrap;
 }
+div.yjd-wdg-menu-key {
+	white-space: nowrap;
+	text-align: right;
+	font-size: 80%;
+	color: var(--yjd-wdg-text-inactive);
+}
 div.yjd-wdg-menu-icon, div.yjd-wdg-menu-sub {
 	flex-grow: 0;
 	width: 1.8em;
