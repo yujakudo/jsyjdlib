@@ -1,0 +1,435 @@
+
+select.yjd-colornames[data-value="transparent"],
+select.yjd-colornames>option[value="transparent"]
+{background-color:transparent;}
+select.yjd-colornames[data-value="white"],
+select.yjd-colornames>option[value="white"]
+{background-color:white; color:black;}
+select.yjd-colornames[data-value="whitesmoke"],
+select.yjd-colornames>option[value="whitesmoke"]
+{background-color:whitesmoke; color:black;}
+select.yjd-colornames[data-value="ghostwhite"],
+select.yjd-colornames>option[value="ghostwhite"]
+{background-color:ghostwhite; color:black;}
+select.yjd-colornames[data-value="aliceblue"],
+select.yjd-colornames>option[value="aliceblue"]
+{background-color:aliceblue; color:black;}
+select.yjd-colornames[data-value="lavender"],
+select.yjd-colornames>option[value="lavender"]
+{background-color:lavender; color:black;}
+select.yjd-colornames[data-value="azure"],
+select.yjd-colornames>option[value="azure"]
+{background-color:azure; color:black;}
+select.yjd-colornames[data-value="lightcyan"],
+select.yjd-colornames>option[value="lightcyan"]
+{background-color:lightcyan; color:black;}
+select.yjd-colornames[data-value="mintcream"],
+select.yjd-colornames>option[value="mintcream"]
+{background-color:mintcream; color:black;}
+select.yjd-colornames[data-value="honeydew"],
+select.yjd-colornames>option[value="honeydew"]
+{background-color:honeydew; color:black;}
+select.yjd-colornames[data-value="ivory"],
+select.yjd-colornames>option[value="ivory"]
+{background-color:ivory; color:black;}
+select.yjd-colornames[data-value="beige"],
+select.yjd-colornames>option[value="beige"]
+{background-color:beige; color:black;}
+select.yjd-colornames[data-value="lightyellow"],
+select.yjd-colornames>option[value="lightyellow"]
+{background-color:lightyellow; color:black;}
+select.yjd-colornames[data-value="lightgoldenrodyellow"],
+select.yjd-colornames>option[value="lightgoldenrodyellow"]
+{background-color:lightgoldenrodyellow; color:black;}
+select.yjd-colornames[data-value="lemonchiffon"],
+select.yjd-colornames>option[value="lemonchiffon"]
+{background-color:lemonchiffon; color:black;}
+select.yjd-colornames[data-value="floralwhite"],
+select.yjd-colornames>option[value="floralwhite"]
+{background-color:floralwhite; color:black;}
+select.yjd-colornames[data-value="oldlace"],
+select.yjd-colornames>option[value="oldlace"]
+{background-color:oldlace; color:black;}
+select.yjd-colornames[data-value="cornsilk"],
+select.yjd-colornames>option[value="cornsilk"]
+{background-color:cornsilk; color:black;}
+select.yjd-colornames[data-value="papayawhip"],
+select.yjd-colornames>option[value="papayawhip"]
+{background-color:papayawhip; color:black;}
+select.yjd-colornames[data-value="blanchedalmond"],
+select.yjd-colornames>option[value="blanchedalmond"]
+{background-color:blanchedalmond; color:black;}
+select.yjd-colornames[data-value="bisque"],
+select.yjd-colornames>option[value="bisque"]
+{background-color:bisque; color:black;}
+select.yjd-colornames[data-value="snow"],
+select.yjd-colornames>option[value="snow"]
+{background-color:snow; color:black;}
+select.yjd-colornames[data-value="linen"],
+select.yjd-colornames>option[value="linen"]
+{background-color:linen; color:black;}
+select.yjd-colornames[data-value="antiquewhite"],
+select.yjd-colornames>option[value="antiquewhite"]
+{background-color:antiquewhite; color:black;}
+select.yjd-colornames[data-value="seashell"],
+select.yjd-colornames>option[value="seashell"]
+{background-color:seashell; color:black;}
+select.yjd-colornames[data-value="lavenderblush"],
+select.yjd-colornames>option[value="lavenderblush"]
+{background-color:lavenderblush; color:black;}
+select.yjd-colornames[data-value="mistyrose"],
+select.yjd-colornames>option[value="mistyrose"]
+{background-color:mistyrose; color:black;}
+select.yjd-colornames[data-value="gainsboro"],
+select.yjd-colornames>option[value="gainsboro"]
+{background-color:gainsboro; color:black;}
+select.yjd-colornames[data-value="lightgray"],
+select.yjd-colornames>option[value="lightgray"]
+{background-color:lightgray; color:black;}
+select.yjd-colornames[data-value="lightsteelblue"],
+select.yjd-colornames>option[value="lightsteelblue"]
+{background-color:lightsteelblue; color:black;}
+select.yjd-colornames[data-value="lightblue"],
+select.yjd-colornames>option[value="lightblue"]
+{background-color:lightblue; color:black;}
+select.yjd-colornames[data-value="lightskyblue"],
+select.yjd-colornames>option[value="lightskyblue"]
+{background-color:lightskyblue; color:black;}
+select.yjd-colornames[data-value="powderblue"],
+select.yjd-colornames>option[value="powderblue"]
+{background-color:powderblue; color:black;}
+select.yjd-colornames[data-value="paleturquoise"],
+select.yjd-colornames>option[value="paleturquoise"]
+{background-color:paleturquoise; color:black;}
+select.yjd-colornames[data-value="skyblue"],
+select.yjd-colornames>option[value="skyblue"]
+{background-color:skyblue; color:black;}
+select.yjd-colornames[data-value="mediumaquamarine"],
+select.yjd-colornames>option[value="mediumaquamarine"]
+{background-color:mediumaquamarine; color:black;}
+select.yjd-colornames[data-value="aquamarine"],
+select.yjd-colornames>option[value="aquamarine"]
+{background-color:aquamarine; color:black;}
+select.yjd-colornames[data-value="palegreen"],
+select.yjd-colornames>option[value="palegreen"]
+{background-color:palegreen; color:black;}
+select.yjd-colornames[data-value="lightgreen"],
+select.yjd-colornames>option[value="lightgreen"]
+{background-color:lightgreen; color:black;}
+select.yjd-colornames[data-value="khaki"],
+select.yjd-colornames>option[value="khaki"]
+{background-color:khaki; color:black;}
+select.yjd-colornames[data-value="palegoldenrod"],
+select.yjd-colornames>option[value="palegoldenrod"]
+{background-color:palegoldenrod; color:black;}
+select.yjd-colornames[data-value="moccasin"],
+select.yjd-colornames>option[value="moccasin"]
+{background-color:moccasin; color:black;}
+select.yjd-colornames[data-value="navajowhite"],
+select.yjd-colornames>option[value="navajowhite"]
+{background-color:navajowhite; color:black;}
+select.yjd-colornames[data-value="peachpuff"],
+select.yjd-colornames>option[value="peachpuff"]
+{background-color:peachpuff; color:black;}
+select.yjd-colornames[data-value="wheat"],
+select.yjd-colornames>option[value="wheat"]
+{background-color:wheat; color:black;}
+select.yjd-colornames[data-value="pink"],
+select.yjd-colornames>option[value="pink"]
+{background-color:pink; color:black;}
+select.yjd-colornames[data-value="lightpink"],
+select.yjd-colornames>option[value="lightpink"]
+{background-color:lightpink; color:black;}
+select.yjd-colornames[data-value="thistle"],
+select.yjd-colornames>option[value="thistle"]
+{background-color:thistle; color:black;}
+select.yjd-colornames[data-value="plum"],
+select.yjd-colornames>option[value="plum"]
+{background-color:plum; color:black;}
+select.yjd-colornames[data-value="silver"],
+select.yjd-colornames>option[value="silver"]
+{background-color:silver; color:black;}
+select.yjd-colornames[data-value="darkgray"],
+select.yjd-colornames>option[value="darkgray"]
+{background-color:darkgray; color:black;}
+select.yjd-colornames[data-value="lightslategray"],
+select.yjd-colornames>option[value="lightslategray"]
+{background-color:lightslategray; color:white;}
+select.yjd-colornames[data-value="slategray"],
+select.yjd-colornames>option[value="slategray"]
+{background-color:slategray; color:white;}
+select.yjd-colornames[data-value="slateblue"],
+select.yjd-colornames>option[value="slateblue"]
+{background-color:slateblue; color:white;}
+select.yjd-colornames[data-value="steelblue"],
+select.yjd-colornames>option[value="steelblue"]
+{background-color:steelblue; color:white;}
+select.yjd-colornames[data-value="mediumslateblue"],
+select.yjd-colornames>option[value="mediumslateblue"]
+{background-color:mediumslateblue; color:white;}
+select.yjd-colornames[data-value="royalblue"],
+select.yjd-colornames>option[value="royalblue"]
+{background-color:royalblue; color:white;}
+select.yjd-colornames[data-value="blue"],
+select.yjd-colornames>option[value="blue"]
+{background-color:blue; color:white;}
+select.yjd-colornames[data-value="dodgerblue"],
+select.yjd-colornames>option[value="dodgerblue"]
+{background-color:dodgerblue; color:black;}
+select.yjd-colornames[data-value="cornflowerblue"],
+select.yjd-colornames>option[value="cornflowerblue"]
+{background-color:cornflowerblue; color:black;}
+select.yjd-colornames[data-value="deepskyblue"],
+select.yjd-colornames>option[value="deepskyblue"]
+{background-color:deepskyblue; color:black;}
+select.yjd-colornames[data-value="cyan"],
+select.yjd-colornames>option[value="cyan"]
+{background-color:cyan; color:black;}
+select.yjd-colornames[data-value="aqua"],
+select.yjd-colornames>option[value="aqua"]
+{background-color:aqua; color:black;}
+select.yjd-colornames[data-value="turquoise"],
+select.yjd-colornames>option[value="turquoise"]
+{background-color:turquoise; color:black;}
+select.yjd-colornames[data-value="mediumturquoise"],
+select.yjd-colornames>option[value="mediumturquoise"]
+{background-color:mediumturquoise; color:black;}
+select.yjd-colornames[data-value="darkturquoise"],
+select.yjd-colornames>option[value="darkturquoise"]
+{background-color:darkturquoise; color:black;}
+select.yjd-colornames[data-value="lightseagreen"],
+select.yjd-colornames>option[value="lightseagreen"]
+{background-color:lightseagreen; color:white;}
+select.yjd-colornames[data-value="mediumspringgreen"],
+select.yjd-colornames>option[value="mediumspringgreen"]
+{background-color:mediumspringgreen; color:black;}
+select.yjd-colornames[data-value="springgreen"],
+select.yjd-colornames>option[value="springgreen"]
+{background-color:springgreen; color:black;}
+select.yjd-colornames[data-value="lime"],
+select.yjd-colornames>option[value="lime"]
+{background-color:lime; color:black;}
+select.yjd-colornames[data-value="limegreen"],
+select.yjd-colornames>option[value="limegreen"]
+{background-color:limegreen; color:white;}
+select.yjd-colornames[data-value="yellowgreen"],
+select.yjd-colornames>option[value="yellowgreen"]
+{background-color:yellowgreen; color:black;}
+select.yjd-colornames[data-value="lawngreen"],
+select.yjd-colornames>option[value="lawngreen"]
+{background-color:lawngreen; color:black;}
+select.yjd-colornames[data-value="chartreuse"],
+select.yjd-colornames>option[value="chartreuse"]
+{background-color:chartreuse; color:black;}
+select.yjd-colornames[data-value="greenyellow"],
+select.yjd-colornames>option[value="greenyellow"]
+{background-color:greenyellow; color:black;}
+select.yjd-colornames[data-value="yellow"],
+select.yjd-colornames>option[value="yellow"]
+{background-color:yellow; color:black;}
+select.yjd-colornames[data-value="gold"],
+select.yjd-colornames>option[value="gold"]
+{background-color:gold; color:black;}
+select.yjd-colornames[data-value="orange"],
+select.yjd-colornames>option[value="orange"]
+{background-color:orange; color:black;}
+select.yjd-colornames[data-value="darkorange"],
+select.yjd-colornames>option[value="darkorange"]
+{background-color:darkorange; color:black;}
+select.yjd-colornames[data-value="goldenrod"],
+select.yjd-colornames>option[value="goldenrod"]
+{background-color:goldenrod; color:black;}
+select.yjd-colornames[data-value="burlywood"],
+select.yjd-colornames>option[value="burlywood"]
+{background-color:burlywood; color:black;}
+select.yjd-colornames[data-value="tan"],
+select.yjd-colornames>option[value="tan"]
+{background-color:tan; color:black;}
+select.yjd-colornames[data-value="sandybrown"],
+select.yjd-colornames>option[value="sandybrown"]
+{background-color:sandybrown; color:black;}
+select.yjd-colornames[data-value="darksalmon"],
+select.yjd-colornames>option[value="darksalmon"]
+{background-color:darksalmon; color:black;}
+select.yjd-colornames[data-value="lightcoral"],
+select.yjd-colornames>option[value="lightcoral"]
+{background-color:lightcoral; color:black;}
+select.yjd-colornames[data-value="salmon"],
+select.yjd-colornames>option[value="salmon"]
+{background-color:salmon; color:black;}
+select.yjd-colornames[data-value="lightsalmon"],
+select.yjd-colornames>option[value="lightsalmon"]
+{background-color:lightsalmon; color:black;}
+select.yjd-colornames[data-value="coral"],
+select.yjd-colornames>option[value="coral"]
+{background-color:coral; color:black;}
+select.yjd-colornames[data-value="tomato"],
+select.yjd-colornames>option[value="tomato"]
+{background-color:tomato; color:black;}
+select.yjd-colornames[data-value="orangered"],
+select.yjd-colornames>option[value="orangered"]
+{background-color:orangered; color:black;}
+select.yjd-colornames[data-value="red"],
+select.yjd-colornames>option[value="red"]
+{background-color:red; color:white;}
+select.yjd-colornames[data-value="deeppink"],
+select.yjd-colornames>option[value="deeppink"]
+{background-color:deeppink; color:black;}
+select.yjd-colornames[data-value="hotpink"],
+select.yjd-colornames>option[value="hotpink"]
+{background-color:hotpink; color:black;}
+select.yjd-colornames[data-value="palevioletred"],
+select.yjd-colornames>option[value="palevioletred"]
+{background-color:palevioletred; color:black;}
+select.yjd-colornames[data-value="violet"],
+select.yjd-colornames>option[value="violet"]
+{background-color:violet; color:black;}
+select.yjd-colornames[data-value="orchid"],
+select.yjd-colornames>option[value="orchid"]
+{background-color:orchid; color:black;}
+select.yjd-colornames[data-value="magenta"],
+select.yjd-colornames>option[value="magenta"]
+{background-color:magenta; color:black;}
+select.yjd-colornames[data-value="fuchsia"],
+select.yjd-colornames>option[value="fuchsia"]
+{background-color:fuchsia; color:black;}
+select.yjd-colornames[data-value="mediumorchid"],
+select.yjd-colornames>option[value="mediumorchid"]
+{background-color:mediumorchid; color:black;}
+select.yjd-colornames[data-value="darkorchid"],
+select.yjd-colornames>option[value="darkorchid"]
+{background-color:darkorchid; color:white;}
+select.yjd-colornames[data-value="darkviolet"],
+select.yjd-colornames>option[value="darkviolet"]
+{background-color:darkviolet; color:white;}
+select.yjd-colornames[data-value="blueviolet"],
+select.yjd-colornames>option[value="blueviolet"]
+{background-color:blueviolet; color:white;}
+select.yjd-colornames[data-value="mediumpurple"],
+select.yjd-colornames>option[value="mediumpurple"]
+{background-color:mediumpurple; color:black;}
+select.yjd-colornames[data-value="gray"],
+select.yjd-colornames>option[value="gray"]
+{background-color:gray; color:white;}
+select.yjd-colornames[data-value="mediumblue"],
+select.yjd-colornames>option[value="mediumblue"]
+{background-color:mediumblue; color:white;}
+select.yjd-colornames[data-value="darkcyan"],
+select.yjd-colornames>option[value="darkcyan"]
+{background-color:darkcyan; color:white;}
+select.yjd-colornames[data-value="cadetblue"],
+select.yjd-colornames>option[value="cadetblue"]
+{background-color:cadetblue; color:white;}
+select.yjd-colornames[data-value="darkseagreen"],
+select.yjd-colornames>option[value="darkseagreen"]
+{background-color:darkseagreen; color:black;}
+select.yjd-colornames[data-value="mediumseagreen"],
+select.yjd-colornames>option[value="mediumseagreen"]
+{background-color:mediumseagreen; color:white;}
+select.yjd-colornames[data-value="teal"],
+select.yjd-colornames>option[value="teal"]
+{background-color:teal; color:white;}
+select.yjd-colornames[data-value="forestgreen"],
+select.yjd-colornames>option[value="forestgreen"]
+{background-color:forestgreen; color:white;}
+select.yjd-colornames[data-value="seagreen"],
+select.yjd-colornames>option[value="seagreen"]
+{background-color:seagreen; color:white;}
+select.yjd-colornames[data-value="darkkhaki"],
+select.yjd-colornames>option[value="darkkhaki"]
+{background-color:darkkhaki; color:black;}
+select.yjd-colornames[data-value="peru"],
+select.yjd-colornames>option[value="peru"]
+{background-color:peru; color:white;}
+select.yjd-colornames[data-value="crimson"],
+select.yjd-colornames>option[value="crimson"]
+{background-color:crimson; color:white;}
+select.yjd-colornames[data-value="indianred"],
+select.yjd-colornames>option[value="indianred"]
+{background-color:indianred; color:white;}
+select.yjd-colornames[data-value="rosybrown"],
+select.yjd-colornames>option[value="rosybrown"]
+{background-color:rosybrown; color:black;}
+select.yjd-colornames[data-value="mediumvioletred"],
+select.yjd-colornames>option[value="mediumvioletred"]
+{background-color:mediumvioletred; color:white;}
+select.yjd-colornames[data-value="dimgray"],
+select.yjd-colornames>option[value="dimgray"]
+{background-color:dimgray; color:white;}
+select.yjd-colornames[data-value="black"],
+select.yjd-colornames>option[value="black"]
+{background-color:black; color:white;}
+select.yjd-colornames[data-value="midnightblue"],
+select.yjd-colornames>option[value="midnightblue"]
+{background-color:midnightblue; color:white;}
+select.yjd-colornames[data-value="darkslateblue"],
+select.yjd-colornames>option[value="darkslateblue"]
+{background-color:darkslateblue; color:white;}
+select.yjd-colornames[data-value="darkblue"],
+select.yjd-colornames>option[value="darkblue"]
+{background-color:darkblue; color:white;}
+select.yjd-colornames[data-value="navy"],
+select.yjd-colornames>option[value="navy"]
+{background-color:navy; color:white;}
+select.yjd-colornames[data-value="darkslategray"],
+select.yjd-colornames>option[value="darkslategray"]
+{background-color:darkslategray; color:white;}
+select.yjd-colornames[data-value="green"],
+select.yjd-colornames>option[value="green"]
+{background-color:green; color:white;}
+select.yjd-colornames[data-value="darkgreen"],
+select.yjd-colornames>option[value="darkgreen"]
+{background-color:darkgreen; color:white;}
+select.yjd-colornames[data-value="darkolivegreen"],
+select.yjd-colornames>option[value="darkolivegreen"]
+{background-color:darkolivegreen; color:white;}
+select.yjd-colornames[data-value="olivedrab"],
+select.yjd-colornames>option[value="olivedrab"]
+{background-color:olivedrab; color:white;}
+select.yjd-colornames[data-value="olive"],
+select.yjd-colornames>option[value="olive"]
+{background-color:olive; color:white;}
+select.yjd-colornames[data-value="darkgoldenrod"],
+select.yjd-colornames>option[value="darkgoldenrod"]
+{background-color:darkgoldenrod; color:white;}
+select.yjd-colornames[data-value="chocolate"],
+select.yjd-colornames>option[value="chocolate"]
+{background-color:chocolate; color:white;}
+select.yjd-colornames[data-value="sienna"],
+select.yjd-colornames>option[value="sienna"]
+{background-color:sienna; color:white;}
+select.yjd-colornames[data-value="saddlebrown"],
+select.yjd-colornames>option[value="saddlebrown"]
+{background-color:saddlebrown; color:white;}
+select.yjd-colornames[data-value="firebrick"],
+select.yjd-colornames>option[value="firebrick"]
+{background-color:firebrick; color:white;}
+select.yjd-colornames[data-value="brown"],
+select.yjd-colornames>option[value="brown"]
+{background-color:brown; color:white;}
+select.yjd-colornames[data-value="maroon"],
+select.yjd-colornames>option[value="maroon"]
+{background-color:maroon; color:white;}
+select.yjd-colornames[data-value="darkred"],
+select.yjd-colornames>option[value="darkred"]
+{background-color:darkred; color:white;}
+select.yjd-colornames[data-value="darkmagenta"],
+select.yjd-colornames>option[value="darkmagenta"]
+{background-color:darkmagenta; color:white;}
+select.yjd-colornames[data-value="purple"],
+select.yjd-colornames>option[value="purple"]
+{background-color:purple; color:white;}
+select.yjd-colornames[data-value="indigo"],
+select.yjd-colornames>option[value="indigo"]
+{background-color:indigo; color:white;}
+
+select.yjd-colornames {
+	max-width: 6em;
+}
+
+select.yjd-colornames>option:hover,
+select.yjd-colornames>option:checked
+{
+	box-shadow: 0 0 2px 3px white inset,
+		0 0 3px 4px black inset;
+}

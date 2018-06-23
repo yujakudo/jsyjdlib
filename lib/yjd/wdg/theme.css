@@ -10,16 +10,18 @@
     --yjd-wdg-font-size: 11pt;
     --yjd-wdg-line-height: 13.5pt;
 
-	--yjd-wdg-base-color: rgba(40,40,40,0.9);
-	--yjd-wdg-base-hover: rgba(140,140,140,0.9);
-	--yjd-wdg-lightside: rgba(120,120,120,0.9);
-	--yjd-wdg-darkside: rgba(0,0,0,0.9);
+	--yjd-wdg-base-color: transparent;
+	--yjd-wdg-base-hover: rgba(229, 226, 226, 0.9);
+	--yjd-wdg-base-gray: rgba(120, 120, 120, 0.1);
+	--yjd-wdg-lightside: rgba(255, 255, 255, 0.9);
+	--yjd-wdg-darkside: rgba(209, 209, 209, 0.9);
 	--yjd-wdg-thick: 1px;
-	--yjd-wdg-titlebar: rgba(60,60,60,0.9);
-
-	--yjd-wdg-text: rgba(240,240,240,0.95);
-	--yjd-wdg-text-inactive: rgba(180,180,180,0.95);
-	--yjd-wdg-text-shadow: rgba(40,40,40,0.95);
+	--yjd-wdg-titlebar: rgba(199, 193, 255, 0.9);
+	--yjd-wdg-line: rgba(173, 173, 173, 0.9);
+	
+	--yjd-wdg-text: rgba(0, 0, 0, 0.95);
+	--yjd-wdg-text-inactive: rgba(255, 255, 255, 0.95);
+	--yjd-wdg-text-shadow: none;
 	--yjd-wdg-on: rgba(150,150,255,1);
 	--yjd-wdg-off: rgba(200,200,200,0.95);
 	--yjd-wdg-on-shadow: rgba(150,150,255,1);

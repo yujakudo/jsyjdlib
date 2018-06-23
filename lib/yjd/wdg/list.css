@@ -1,0 +1,38 @@
+.yjd-wdg-list {
+	display: inline;
+}
+
+.yjd-wdg-list>div {
+	position: relative;
+	display: none;
+	width: 100%;
+	height: 0px;
+	overflow: visible;
+}
+
+.yjd-wdg-list.yjd-wdg-focused>div {
+	display: block;
+}
+
+div.yjd-wdg-list-box,
+div.yjd-wdg-list-noresult
+{
+	position: absolute;
+	width: 100%;
+	background-color: rgba(230,230,230,0.9);
+	padding: 0 0;
+	z-index: 90000;
+}
+div.yjd-wdg-list-box p,
+div.yjd-wdg-list-noresult p,
+.yjd-wdg-list-item
+{
+	padding: 0 0.5rem;
+	cursor: pointer;
+}
+.yjd-wdg-list-item.yjd-wdg-list-selected {
+	box-shadow: 0 0 2px 2px #ffff00 inset;
+}
+.yjd-wdg-list-item.yjd-wdg-list-entered {
+	background-color: rgba(255,255,255,1);
+}

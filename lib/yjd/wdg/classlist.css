@@ -1,0 +1,34 @@
+.yjd-wdg-classlist,
+.yjd-wdg-classlist-select,
+.yjd-wdg-classlist-select select,
+.yjd-wdg-classlist-tools {
+	width: 100%;
+	height: 100%;
+}
+.yjd-wdg-classlist {
+	overflow-y: auto;
+}
+.yjd-cltools-new,
+.yjd-cltools-remove {
+	max-width: 100%;
+}
+.yjd-wdg-classlist-tools>div{
+	margin: 0.1em 0;
+}
+.yjd-wdg-classlist-tools input,
+.yjd-wdg-classlist-tools select
+{
+	width: 8em;
+}
+.yjd-wdg-classlist-tools input,
+.yjd-wdg-classlist-tools select,
+.yjd-wdg-classlist-tools button
+{
+	height: 1.8em;
+}
+
+.yjd-wdg-classlist>div{
+	/* margin-bottom: 8px; */
+	margin: 8px 0 0 2px;
+	width: calc(100% - 4px);
+}

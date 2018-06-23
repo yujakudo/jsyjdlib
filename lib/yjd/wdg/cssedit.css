@@ -1,0 +1,115 @@
+.yjd-wdg-cssedit-base.yjd-wdg-disabled {
+	background-color: var( --yjd-wdg-base-gray);
+}
+.yjd-wdg-cssedit-table {
+	width: 100%;
+	font-size: 90%;
+}
+.yjd-wdg-cssedit-base input,
+.yjd-wdg-cssedit-base select,
+.yjd-wdg-cssedit-base option
+{
+	padding: 0 0.05em;
+	margin: 0.05em 0.15em;
+	height: 1.8em;
+	max-width: 18em;
+}
+.yjd-wdg-cssedit-base label {
+	margin: 0 0;
+}
+
+.yjd-wdg-cssedit-base select {
+	background-color: transparent;
+}
+.yjd-wdg-cssedit-base td,
+.yjd-wdg-cssedit-base th
+{
+	background-color: transparent;
+}
+.yjd-cssed-item.yjd-cssed-disabled td {
+	background-color: var( --yjd-wdg-base-gray);
+}
+.yjd-wdg-cssedit-base td:nth-child(2) {
+	min-width: 8em;
+}
+.yjd-wdg-cssedit-base td:nth-child(4) {
+	min-width: 3em;
+}
+.yjd-cssed-field {
+	white-space: nowrap;
+}
+.yjd-cssed-input-field input[type="range"]
+{
+	top: 0.2em;
+	width: 4em;
+	height: 1.2em;
+	position: relative;
+}
+.yjd-cssed-input-field input[type="text"]
+{
+	width: 8em;
+}
+.yjd-cssed-input-field input[name="yjd-fcss-full"] {
+	width: 20em;
+}
+.yjd-cssed-input-field input[type="url"]
+{
+	width: 13em;
+}
+.yjd-cssed-input-field input[type="radio"],
+.yjd-cssed-input-field input[type="checkbox"],
+input[name="yjd-fcss-b-custom"]
+{
+	position: relative;
+	top: .6em;
+}
+.yjd-cssed-length_val input[type="number"] {
+	width: 4em;
+}
+input.yjd-fcss-file-data[type="text"] {
+	width: 6em;
+}
+.yjd-cssed-length_val select {
+	width: 3.7em;
+}
+select.yjd-fcss-method-select {
+	max-width: 4em;
+}
+.yjd-fcss-combine-image select.yjd-fcss-method-select {
+	max-width: 6em;
+}
+select.yjd-colornames {
+	max-width: 10em;
+}
+.yjd-wdg-cssedit-base tr {
+	border-top: 1px solid var( --yjd-wdg-line);
+}
+/*	textarea	*/
+textarea[name="yjd-fcss-custom"],
+textarea[name="yjd-fcss-total_custom"],
+textarea[name="yjd-fcss-total_view"] {
+    font-family: Consolas, 'Courier New', Courier, Monaco, monospace;
+    font-size: 16px;
+	line-height: 1.2;
+}
+textarea[name="yjd-fcss-custom"].yjd-cssed-error {
+	background-color: #FFb0b0;
+}
+/* tools */
+button.yjd-cssed-add-selector {
+	width: 4em;
+}
+input.yjd-cssed-new-selector {
+	width: calc(100% - 4.2em);
+}
+select.yjd-cssed-selector-tags,
+select.yjd-cssed-selector-option {
+	width: 4em;
+}
+select.yjd-cssed-selector-tags option,
+select.yjd-cssed-selector-option option {
+	margin: 0;
+	padding: 0;
+	line-height: 1em;
+	font-size: 90%;
+}
